@@ -68,9 +68,9 @@ var callback = () => api.sendMessage({body:`➢ Admin and Bot Information
 
 ⁂ Bot Name: ${global.config.BOTNAME}
 ✧ Bot Admin: ${global.config.ADMINBOT}
-♛ Bot Admin Link: https://www.facebook.com/MR.AARYAN.HERE
+♛ Bot Admin Link: UNLIMITED IDZ NO LINK
 ❂ Bot Prefix: ${global.config.PREFIX}
-✫ Bot Owner: https://www.facebook.com/MR.AARYAN.HERE
+✫ Bot Owner: 𝐂𝐇𝐔𝐙𝐀
 ➟ UPTIME
 ✬ Today is: ${juswa} 
 
