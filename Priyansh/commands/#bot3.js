@@ -31,7 +31,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
           ${rand} 🤣🍁❤
 
 
-         *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐂𝐇𝐔𝐙𝐀🍒`
+         *★᭄𝗢𝘄𝗻𝗲𝗿 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
