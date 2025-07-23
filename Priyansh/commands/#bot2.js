@@ -25,7 +25,7 @@ var rand = tl[Math.floor(Math.random() * tl.length)]
    };
    mess = "{name}"
 
-  if (event.body.indexOf("Chuza") == 0 || (event.body.indexOf("@Chuza") == 0 || (event.body.indexOf("Chuzza")) == 0)) {
+  if (event.body.indexOf("𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮") == 0 || (event.body.indexOf("@Chuza") == 0 || (event.body.indexOf("Chuzza")) == 0)) {
     var msg = {
       body: `🌴🪻🪴${name}🌲🪷🌿, \n\n
           ${rand} 🍀🌺💦
