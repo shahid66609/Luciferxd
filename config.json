@@ -257,11 +257,5 @@
     },
     "message-github-issue.xml":{
         "enable": true
-    },
-    "Google_Voice_Auto_Reply.prf.xml":{
-        "enable": true
-    },
-    "Phone_Call_Arrived.prf.xml":{
-        "enable": true    
 }
-{
+   {
