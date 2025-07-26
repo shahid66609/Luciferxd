@@ -16,12 +16,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": " 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ ※̞̏❱ ͟𓃮",
-    "PREFIX": ".",
+    "BOTNAME": "𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜͡⃝ᴆ",
+    "PREFIX": "#",
     "ADMINBOT": [
-        "61577631662713",
         "",
-        ""
+        "",
+        "61578202223850"
     ],
     "NDH": [
         "100090727842226",
@@ -254,8 +254,6 @@
     },
     "messageforrealcreator": {
         "enable": true
-    },
-    "message-github-issue.xml":{
-        "enable": true
+    }
 }
-   {
+ 
