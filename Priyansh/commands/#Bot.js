@@ -21,11 +21,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   var rand = tl[Math.floor(Math.random() * tl.length)]
 
     if ((event.body.toLowerCase() == "chutiya bot") || (event.body.toLowerCase() == "chutia bot")) {
-     return api.sendMessage("MERA BOSS AAKE PEL DEGA TUMKO NIKAL BHOSDIKE😾 :))", threadID);
+     return api.sendMessage("𝙚𝙯𝙖𝙩 𝙙𝙚𝙣𝙞 𝙖𝙥𝙠𝙚 𝙗𝙖𝙨 𝙠𝙞 𝙗𝙖𝙩 𝙣𝙖𝙞 𝙝𝙖𝙞𝙞 𝙬𝙤 𝙗𝙖𝙨 𝙚𝙯𝙖𝙩 𝙙𝙖𝙧 𝙡𝙤𝙜 𝙝𝙞 𝙙𝙚𝙨𝙖𝙠𝙩𝙚 𝙝𝙖𝙖𝙞𝙣😾 :))", threadID);
    };
 
     if ((event.body.toLowerCase() == "pagal bot") || (event.body.toLowerCase() == "pgl")) {
-     return api.sendMessage("💐𝐀𝐜𝐡𝐚 𝐣𝐢𝐢 𝐌𝐚𝐢 𝐩𝐚𝐠𝐚𝐥 𝐡𝐮 𝐲𝐚 𝐚𝐚𝐩 𝐦𝐞𝐧𝐭𝐚𝐥 𝐥𝐨𝐠 😏💐", threadID);
+     return api.sendMessage("💐𝙝𝙖𝙣 𝙢𝙚𝙡𝙞 𝙟𝙖𝙣𝙣 𝙢𝙖𝙞𝙣 𝙟𝙖𝙣 𝙢𝙖𝙞𝙣 𝙖𝙥𝙠𝙚 𝙥𝙚𝙮𝙖𝙧 𝙢𝙖𝙞𝙣 𝙥𝙖𝙜𝙖𝙖𝙡 𝙝𝙤𝙣 🙈🙊", threadID);
    };
 
     if ((event.body.toLowerCase() == "😘") || (event.body.toLowerCase() == "😽")) {
@@ -37,15 +37,15 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
   
     if ((event.body.toLowerCase() == "acha") || (event.body.toLowerCase() == "accha")) {
-     return api.sendMessage("💐𝐇𝐚𝐧𝐣𝐢𝐢 𝐁𝐚𝐛𝐮🥳💐", threadID);
+     return api.sendMessage("𝙜𝙜 𝙢𝙚𝙡𝙞 𝙟𝙖𝙣🥳💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "kya hua") || (event.body.toLowerCase() == "kya")) {
-     return api.sendMessage("💐𝐊𝐮𝐜𝐡 𝐧𝐚𝐡𝐢 𝐡𝐮𝐚 𝐛𝐚𝐛𝐮💐", threadID);
+     return api.sendMessage("💐𝐊𝐮𝐜𝐡 𝙣𝙖𝙝𝙞 𝙢𝙚𝙡𝙞 𝙟𝙖𝙣 𝙖𝙥 𝙨𝙪𝙣𝙖𝙞𝙣 𝙠𝙪𝙨𝙝💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "chutiya") || (event.body.toLowerCase() == "bot chutiya") ||(event.body.toLowerCase() == "chutia bot") || (event.body.toLowerCase() == "bot chutia")) {
-     return api.sendMessage("💐𝐓𝐔 𝐂𝐇𝐔𝐓𝐈𝐘𝐀 𝐓𝐄𝐑𝐀 𝐁𝐀𝐏 𝐂𝐇𝐔𝐓𝐈𝐘𝐀 𝐓𝐄𝐑𝐀 𝐊𝐇𝐀𝐍𝐃𝐀𝐍 𝐂𝐇𝐔𝐓𝐈𝐘𝐀 𝐍𝐈𝐊𝐀𝐋 𝐁𝐇𝐎𝐒𝐃𝐈𝐊𝐄💐", threadID);
+     return api.sendMessage("💐𝙚𝙯𝙖𝙩 𝙙𝙚𝙣𝙖 𝙨𝙚𝙠𝙝𝙤 𝙚𝙯𝙖𝙩 𝙢𝙞𝙡𝙣𝙞 𝙨𝙝𝙧𝙤𝙬 𝙝𝙤𝙟𝙖𝙞𝙚𝙜𝙞💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "bc") || (event.body.toLowerCase() == "bc")) {
@@ -57,7 +57,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "sun") || (event.body.toLowerCase() == "suno")) {
-     return api.sendMessage("💐𝐇𝐚 𝐛𝐚𝐛𝐲 𝐁𝐨𝐥𝐨 𝐍𝐚💐", threadID);
+     return api.sendMessage("💐ha meli jan main apkeli to yahan pe hon💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "@everyone") || (event.body.toLowerCase() == "koi hai")) {
@@ -109,7 +109,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "nice") || (event.body.toLowerCase() == "thank you") || (event.body.toLowerCase() == "thank you bot") || (event.body.toLowerCase() == "thank you maliha")) {
-     return api.sendMessage("️💐𝐌𝐚𝐢 𝐡𝐮 𝐡𝐢 𝐢𝐭𝐧𝐚 𝐀𝐜𝐜𝐡𝐚 𝐬𝐚𝐛 𝐥𝐨𝐠 𝐓𝐚𝐫𝐞𝐞𝐟 𝐤𝐚𝐫𝐭𝐞 𝐇 𝐌𝐞𝐫𝐢💐", threadID);
+     return api.sendMessage("️💐𝐌𝐚𝐢 𝐡𝐮 𝐡𝐢 𝐢𝐭𝐧i 𝐀𝐜𝐜𝐡ee 𝐬𝐚𝐛 𝐥𝐨𝐠 𝐓𝐚𝐫𝐞𝐞𝐟 𝐤𝐚𝐫𝐭𝐞 𝐇 𝐌𝐞𝐫𝐢💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "hm") || (event.body.toLowerCase() == "hmm")) {
@@ -133,11 +133,11 @@ if ((event.body.toLowerCase() == " 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜
    };
 
    if ((event.body.toLowerCase() == "🙃") || (event.body.toLowerCase() == "🙃🙃")) {
-     return api.sendMessage("️💐𝐀𝐫𝐞 𝐌𝐞𝐫𝐚 𝐁𝐚𝐛𝐮 𝐔𝐥𝐭𝐚 𝐇𝐨 𝐆𝐚𝐘𝐞 💐", threadID);
+     return api.sendMessage("️💐etne udas q hain meri jan 💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "🙄") || (event.body.toLowerCase() == "🙄🙄")) {
-     return api.sendMessage("️💐𝐔𝐩𝐚𝐑 𝐊𝐲𝐚 𝐃𝐞𝐤𝐡 𝐑𝐚𝐇𝐞 𝐇𝐨 𝐁𝐚𝐛𝐲 𝐌𝐚𝐢 𝐓𝐨 𝐍𝐢𝐂𝐡𝐞 𝐇𝐮𝐍💐", threadID);
+     return api.sendMessage("️💐keya soch rahe hain meli jan💐", threadID);
    };
 
       if ((event.body.toLowerCase() == "😒") || (event.body.toLowerCase() == "😒😒")) {
@@ -153,7 +153,7 @@ if ((event.body.toLowerCase() == " 𓅋 ⃝« ❰ 𝑴𝑨𝑹𝑰𝑵𝑨𝐱͜
    };
 
    if ((event.body.toLowerCase() == "kese ho") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "kese ho ji") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "kaisi ho")) {
-     return api.sendMessage("💐𝐌𝐚𝐢 𝐀𝐜𝐡𝐡𝐚 𝐇𝐮 𝐌𝐞𝐫𝐢 𝐉𝐚𝐚𝐧 𝐀𝐚𝐩 𝐛𝐭𝐚𝐨☺️💐", threadID);
+     return api.sendMessage("💐𝐌𝐚𝐢 𝐀𝐜𝐡𝐡i 𝐇𝐮 𝐌𝐞𝐫𝐢 𝐉𝐚𝐚𝐧 𝐀𝐚𝐩 𝐛𝐭𝐚𝐨☺️💐", threadID);
    };
 
    if ((event.body.toLowerCase() == "ka hua") || (event.body.toLowerCase() == "kya hua jii")) {
